@@ -1,0 +1,17 @@
+machine_learning_algorithms_from_scratch/
+results/
+run.sh
+normDat
+MLR_Chapel.xlsx
+*~
+.DS_Store
+bin/
+data/fashion*
+data/voice*
+data/seguro*
+data/HR*
+data/insurance*
+data/iris*
+data/pima*
+data/sonar*
+data/wine*
